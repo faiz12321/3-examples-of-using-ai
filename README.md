@@ -15,3 +15,6 @@ A free, short guide by AI Tools That Work. A made-up traveler, Maya, prepares fo
 - Always check the official page for your own trip or order.
 
 This is a first version to download and check.
+
+
+**More free guides: [faiz12321.github.io/ai-tools-that-work](https://faiz12321.github.io/ai-tools-that-work/)**
